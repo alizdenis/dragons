@@ -1,0 +1,1 @@
+gameId,attack,armor,agility,endurance,weather,scaleThickness,clawSharpness,wingStrength,fireBreath,result
